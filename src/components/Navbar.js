@@ -23,7 +23,7 @@ const Navbar = () => {
             <a href="/">Earn</a>
           </li>
           <li>
-            <a href="/">Home</a>
+            <a href="/">Contact</a>
           </li>
         </ul>
         <div className="btn-group">
